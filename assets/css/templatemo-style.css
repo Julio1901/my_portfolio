@@ -319,6 +319,14 @@ html {
     letter-spacing: 0.5px;
 }
 
+/*My contacts*/
+
+#my-github{
+  text-decoration: none;
+  color: #6495ED;
+}
+
+
 
 /* Buttons */
 
