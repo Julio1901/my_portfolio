@@ -326,7 +326,12 @@ html {
   color: #6495ED;
 }
 
-
+.github img{
+  width: 8%;
+  display: inline-block;
+  margin-left: 75%;
+  margin-top: -7%;
+}
 
 /* Buttons */
 
